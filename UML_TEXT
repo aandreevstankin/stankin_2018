@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент Андреев А.Б." as P {
+ ПО Ramus Educational
+Скришнот диаграммы в гитхаб Создание примера диаграммы IDEF0 (Необходимость получить зачет, Лабораторная работа)
+}
+hide circle
+@enduml
