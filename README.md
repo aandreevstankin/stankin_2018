@@ -24,11 +24,11 @@
   
  ![Задание 1 - диаграмма "6 вопросов"](https://github.com/aandreevstankin/stankin_2018/blob/master/lr3_idef0.PNG)
  
-  Задание 2 - Уровень детализации 1
+  Задание 2 - Уровень детализации 1 (PDC)
   
  ![Задание 2 - Уровень детализации 1](https://github.com/aandreevstankin/stankin_2018/blob/master/lr_3_det_1.PNG)
  
-   Задание 3 - Уровень детализации 2
+   Задание 3 - Уровень детализации 2 (DFD)
    
  ![Задание 2 - Уровень детализации 2](https://github.com/aandreevstankin/stankin_2018/blob/master/lr_3_det_2.PNG)
 # Лабораторная работа №3
