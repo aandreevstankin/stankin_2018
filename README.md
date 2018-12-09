@@ -43,6 +43,7 @@
   ![Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_seq.png)
   
   [Диаграмма ERD](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_dat)
+  
   ![Диаграмма ERD](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_us.png)
 
 # Лабораторная работа №4
