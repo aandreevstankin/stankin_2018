@@ -38,9 +38,9 @@
    
  ![Диаграмма DFD](https://github.com/aandreevstankin/stankin_2018/blob/master/lr_3_det_2.PNG)
  
-  Диаграмма последовательностей
+  [Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_seq)
   
-  ![Диаграмма последовательностей]()
+  ![Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_seq.png)
   
   Схема данных
   ![Схема данных]()
