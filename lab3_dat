@@ -1,0 +1,32 @@
+@startuml
+class "Зачет по предмету" as zach {
+  id
+  Название
+  Студент
+  Лабораторные работы
+} 
+class Студент {
+  id
+  фио
+}
+class "Лабораторные работы" as labs{
+  id
+  Название
+  GitHub link
+  Используемое ПО
+}
+class GitHub {
+  id
+  название
+  url
+}
+class "Используемое ПО" as po {
+  id
+  название
+}
+
+zach *-- Студент
+zach *-- labs
+labs o-- GitHub
+labs o-- po
+@enduml
