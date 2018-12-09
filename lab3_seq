@@ -1,0 +1,12 @@
+@startuml
+actor "Андреев А.Б." as student
+actor "Преподаватель" as teacher 
+participant "ПО Ramus Educational" as ramus
+database "GitHub" as github
+student -> teacher : Запрос задания на лабораторную работу
+teacher -> student : Задание на лабораторную работу
+student -> ramus : Создание требуемых диаграмм
+ramus -> student : Готовые диаграммы"
+student -> github : Загрузить диаграммы в гит
+github -> teacher : Проверить результат работы
+@enduml
