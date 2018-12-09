@@ -42,8 +42,8 @@
   
   ![Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_seq.png)
   
-  Схема данных
-  ![Схема данных]()
+  [Диаграмма участников](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_dat)
+  ![Диаграмма участников](https://github.com/aandreevstankin/stankin_2018/blob/master/lab3_us.png)
 
 # Лабораторная работа №4
 
