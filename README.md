@@ -34,7 +34,7 @@
 # Лабораторная работа №3
  [Ссылка на модель](https://github.com/aandreevstankin/stankin_2018/blob/master/2_and_3_level_decomposition(lab2-3).rsf)
  
-    Диаграмма DFD
+  Диаграмма DFD
    
  ![Диаграмма DFD](https://github.com/aandreevstankin/stankin_2018/blob/master/lr_3_det_2.PNG)
  
