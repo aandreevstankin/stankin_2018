@@ -18,7 +18,7 @@
 
 [Задание 3 - Код UML диаграммы прецедентов](https://github.com/aandreevstankin/stankin_2018/blob/master/UML_TEXT_2)
 # Лабораторная работа №2
- ![Ссылка на модель](https://github.com/aandreevstankin/stankin_2018/blob/master/2_and_3_level_decomposition(lab2-3).rsf)
+ [Ссылка на модель](https://github.com/aandreevstankin/stankin_2018/blob/master/2_and_3_level_decomposition(lab2-3).rsf)
  
   Задание 1 - Диаграмма "6 вопросов"
   
