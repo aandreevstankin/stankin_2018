@@ -1,0 +1,36 @@
+@startuml
+(Потоки) as Flows
+(Входящие) as InFlow
+(Выходящие) as OutFlow
+(Управляющие) as ContFlow
+ 
+InFlow -up-|> Flows
+OutFlow -up-|> Flows
+ContFlow -up-|> Flows
+
+(Информация) as InInf
+
+InInf -up-|> InFlow
+
+(Обращение API\nк необходимым\nвнутренним\nметодам ИС) as ApiIn
+
+ApiIn -up-|> InInf
+
+(Информация) as OutInf
+
+OutInf -up-|> OutFlow
+
+(Передача результата\nвыполения в API) as ApiOut
+
+ApiOut -up-|> OutInf
+
+(Информация) as ContInf
+
+ContInf -up-|> ContFlow
+
+(Бизнес-логика) as Logic
+(Системные ограничения) as Handicap
+
+Logic -up-|> ContInf
+Handicap -up-|> ContInf
+@enduml
