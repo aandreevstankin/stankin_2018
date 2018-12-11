@@ -53,7 +53,7 @@
  - Объектом исследования является процесс функционирования серверной части информационной системы для автоматизации деятельности туристического агентства.
  
  - IDEF0 Контекстная:
-  (https://github.com/aandreevstankin/stankin_2018/blob/master/lab4_idef0_con.PNG)
+  !(https://github.com/aandreevstankin/stankin_2018/blob/master/lab4_idef0_con.PNG)
 # Лабораторная работа №5
 
 # Лабораторная работа №6
