@@ -59,5 +59,17 @@
  - IDEF0 Декомпозиция уровня А2:
   ![IDEF0 Декомпозиция уровня A2](https://github.com/aandreevstankin/stankin_2018/blob/master/IDEF0_A2.PNG)
 # Лабораторная работа №5
-
+ - Конфигурация технических средств: сервер для размещения БД.
+ - Конфигурация программных средств: СУБД Oracle.
+ - Определение допустимых видов хранилищ и их размещения: реляционная база данных.
+ 
+ - DFD Декомпозиция уровня A21
+ ![DFD Декомпозиция уровня A21](https://github.com/aandreevstankin/stankin_2018/blob/master/DFD_A21.PNG)
+ - DFD Декомпозиция уровня A22
+ ![DFD Декомпозиция уровня A22](https://github.com/aandreevstankin/stankin_2018/blob/master/DFD_A22.PNG)
+ 
+ - Все блоки DFD представляют из себя модули обработкию
+ 
+ - Классификаторы:
+  ![Классификаторы](https://github.com/aandreevstankin/stankin_2018/blob/master/Class-s.PNG)
 # Лабораторная работа №6
