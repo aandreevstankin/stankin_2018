@@ -85,3 +85,17 @@
   [Модель](https://github.com/aandreevstankin/stankin_2018/blob/master/kursach.rsf)
   
 # Лабораторная работа №6
+
+  - [ERD диаграмма потоков](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_Flows_Code)
+  
+  ![ERD диаграмма потоков](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_FLOWS.png)
+  
+  - [ERD диаграмма ролей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_Roles_Code)
+  
+  ![ERD диаграмма ролей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_ROLES.png)
+  
+  - [ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_MODULES.png)
+  
+  ![ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_Modules_Code)
+  
+  
