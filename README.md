@@ -107,7 +107,8 @@
   
   ![ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_MODULES.png)
   
-  - [Диаграмма последовательностей]()
+  - [Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/SEQ_Code)
+  ![Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/SEQ.png)
 # Курсовой проект
 
        мама, роди меня обратно
