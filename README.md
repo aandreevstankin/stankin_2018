@@ -94,8 +94,8 @@
   
   ![ERD диаграмма ролей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_ROLES.png)
   
-  - [ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_MODULES.png)
+  - [ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_Modules_Code)
   
-  ![ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_Modules_Code)
+  ![ERD диаграмма модулей](https://github.com/aandreevstankin/stankin_2018/blob/master/ERD_MODULES.png)
   
   
