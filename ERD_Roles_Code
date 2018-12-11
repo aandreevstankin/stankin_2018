@@ -1,0 +1,25 @@
+@startuml
+(Роли) as Roles
+
+(Инструменты) as Instrs
+
+Instrs -up-|> Roles
+
+(API обработки\nзапросов\nот клиента) as ClntApi
+(API формирования\nответов сервера) as SrvApi
+
+ClntApi -up-|> Instrs
+SrvApi -up-|> Instrs
+
+(Ограничения) as Constrs
+
+Constrs -up-|> Roles
+
+(Бизнес-логика) as Logic
+(Системные\nограничения) as System
+(Возможности\nметодов API) as ApiConstr
+
+Logic -up-|> Constrs
+System -up-|> Constrs
+ApiConstr -up-|> Constrs
+@enduml
