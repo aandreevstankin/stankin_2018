@@ -2,6 +2,13 @@
 Студента группы ИДБ-15-14
 Андреева А.Б.
 
+Быстрый переход:
+[1](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-1)
+[2](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-2)
+[3](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-3)
+[4](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-4)
+[5](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-5)
+[6](https://github.com/aandreevstankin/stankin_2018/blob/master/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-6)
 # Лабораторная работа №1
  - Задание 1 - Диаграмма IDEF0
 ![Задание 1 - Диаграмма IDEF0](https://github.com/aandreevstankin/stankin_2018/blob/master/IDEF0.PNG)
