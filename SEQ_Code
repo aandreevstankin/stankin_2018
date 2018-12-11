@@ -1,0 +1,12 @@
+@startuml
+participant "Методы API" as Api
+participant "Идентификация\nпользователя" as UsLogin
+participant "Анализ предпочтений\nпользователя" as UsAnal
+participant "Формирование списка\n рекомендованных\nпользователю туров" as UsList
+
+Api -> UsLogin : Передача данных\nпользователя
+Api <- UsLogin : Успешная идентификация\nпользователя
+UsLogin -> UsAnal : Запрос анализа\nпредпочтений\nидентифицированного\nпользователя
+UsAnal -> UsList : Запрос списка предложенных туров
+UsList -> Api : Возврат списка предложенных туров
+@enduml
