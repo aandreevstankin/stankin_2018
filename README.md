@@ -77,7 +77,7 @@
  - DFD Декомпозиция уровня A21
  ![DFD Декомпозиция уровня A21](https://github.com/aandreevstankin/stankin_2018/blob/master/DFD_A21.PNG)
  - DFD Декомпозиция уровня A22
- ![DFD Декомпозиция уровня A22](https://github.com/aandreevstankin/stankin_2018/blob/master/DFD_A22.PNG)
+ ![DFD Декомпозиция уровня A22](https://github.com/aandreevstankin/stankin_2018/blob/master/DFD_A-22.PNG)
  
  - Все блоки DFD представляют из себя модули обработки.
  
