@@ -110,5 +110,7 @@
   - [Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/SEQ_Code)
   ![Диаграмма последовательностей](https://github.com/aandreevstankin/stankin_2018/blob/master/seq_diag.png)
 # Курсовой проект
+
   - Расчет эффекта от проекта:
+  
   ![Эффект от проекта](https://github.com/aandreevstankin/stankin_2018/blob/master/tab1_effect.PNG)
