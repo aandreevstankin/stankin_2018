@@ -130,4 +130,4 @@
        > Общие трудозатраты: 3 ч/мес,
        > Продолжительность проекта: 5 мес
 
-  [Ссылка на doc-файл курсового проекта](https://github.com/aandreevstankin/stankin_2018/blob/4bc018ebd6369f75f061109e0b2b73879a589280/Proektirovanie_IS_KP_Andreev_A_B_-_12-12-18.doc)
+  [Ссылка на doc-файл курсового проекта](https://github.com/aandreevstankin/stankin_2018/blob/master/Andreev_21-12-fixed.doc)
